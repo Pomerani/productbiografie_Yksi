@@ -1,0 +1,224 @@
+---
+description: Versie 5
+---
+
+# 21.03.2019
+
+**Download hier het opgemaakte document**
+
+> Aangepaste of aangevulde tekst wordt op deze manier weergeven.
+
+~~Verwijderde tekst wordt op deze manier weergeven.~~
+
+## Inleiding <a id="inleiding"></a>
+
+“Knowledge is power”, een veelgehoorde uitspraak van filosoof Francis Bacon,oftewel kennis is een van de belangrijkste dingen in het leven. Je neemt het je hele leven mee. Echter wordt kennis pas nuttig als je er iets mee doet. Tegenwoordig worden steeds meer derde partijen en freelancers ingezet in bedrijven. Freelancers zijn werknemers zonder een vast contract. Nederland telde vorig jaar maar liefst 1,1 miljoen freelancers.\*1 Het merendeel hiervan is werkzaam in de creatieve sector. Doordat deze flexibele werkers meestal tijdelijk bij een bedrijf werken, gaat hun kennis verloren in het bedrijf wanneer zij vertrekken.
+
+Ook tussen vaste medewerkers speelt dit probleem. Informatie wordt niet overgebracht of niet op het goede moment. De informatie die tussen een medewerker en freelancer of derde partij wordt gedeeld, wordt vaak ook niet gedeeld tussen de medewerkers onderling. Er wordt langs elkaar heen gewerkt wat leidt tot dubbel werk en het verliezen van tijd.
+
+Ik werk sinds 6 maanden bij Woedend! Creative Agency en hetzelfde probleem doet zich hier voor. Externe tools die freelancers en derden inzetten, worden niet vastgelegd en handige trucjes die medewerkers ontdekken worden per e-mail verstuurd en worden nooit meer teruggevonden. Er is geen tijd om kennisuurtjes in te plannen.
+
+De komende 20 weken ga ik een online interactieve desktop en mobiele applicatie ontwikkelen voor Woedend! en deze zal misschien ook door andere creatieve organisaties gebruikt kunnen worden. Ik ga onder andere onderzoek doen naar de behoeften van de betrokkenen, hoe ik ze kan motiveren en welke trends er op technisch en visueel gebied zijn. Vervolgens ontwikkel ik een prototype en test ik met de gebruikers. Met het onderzoek wil ik antwoord kunnen geven op de vraag:
+
+> **Hoe kan een online interactieve desktop en mobiele applicatie het vastleggen van kennis, informatie en ervaringen tussen medewerkers van Woedend! Creative Agency onderling motiveren, zodat kennis niet verloren gaat en processen worden versneld?**
+
+## Probleem & context <a id="probleem-and-context"></a>
+
+Woedend! Creative Agency is onderverdeeld in 3 afdelingen; Creatie, Strategie en Account. Omdat zij behoefte hebben aan een intern platform om informatie op te delen\*, zullen zij de gebruikers zijn en daarmee de belangrijkste stakeholders. Mochten haar freelancers en partners ook behoefte hieraan hebben en toegang mogen krijgen, zullen zij ook deel uitmaken van de belangrijkste stakeholders.
+
+98% van de bedrijven geven aan kennis en informatie te willen delen, maar slechts bij 1 op de 5 lukt dat ook\*2. Mijn product kan dus ook worden gebruikt door andere \(creatieve\) bedrijven, maar zal geoptimaliseerd worden voor Woedend!.
+
+Bestaande tools kunnen mij inspreren tijdens het ontwerpproces, om uit te vinden wat de unieke kenmerken van mijn product worden.
+
+**Medewerkers Woedend! Creative Agency**
+
+Er is niet zozeer een groot probleem wat hun werk\(wijze\) negatief beïnvloedt, maar er is wel behoefte naar meer structuur en het vastleggen van informatie en ervaringen.\* Hoewel er 3 afdelingen zijn, komen hun obstakels en behoeften erg overeen. Het verschil zit ‘m in de soort informatie die zij willen delen en hier wordt nog onderzoek naar gedaan. Het zou vooral gaan om externe tools die medewerkers of freelancers en derden inzetten in een project.
+
+Of freelancers en derden toegang moeten hebben tot een platform waar kennis kan worden gedeeld, daar is iedereen het wel mee eens, maar tot een bepaalde hoogte. Zo moet er bepaalde informatie afgeschermd moeten worden. De vraag is of de freelancers en derden zelf wel behoefte hebben aan zo’n platform.
+
+Informatie, kennis en handige tools/widgets worden door medewerkers op dit moment vooral face-to-face of via de mail gedeeld. Een enkeling deelt het via een gesloten blog of WhatsApp. Er wordt geen tijd voor ingepland, omdat dit teveel tijd kost. Het wordt meestal gedeeld op het moment dat het wordt gevonden of relevant is tijdens een project.
+
+De behoeften van de medewerkers zijn samengevat in een empathy map hier rechts.
+
+![Stakeholder map](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LZiUzAqtKhS6-z8arFq%2F-L_CQ_jc76IrTqCbzbst%2F-L_CTkvtWpeuGdNyORTf%2Fstakeholdermap_Tekengebied%201.png?alt=media&token=34363c7b-45f5-46aa-bef0-be319e7cf5e3)
+
+![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LZiUzAqtKhS6-z8arFq%2F-L_I5LydCdL7TTlfjqz4%2F-L_I6qJbHoifJb0PVeIQ%2Fempathymap1_v4.png?alt=media&token=0788150a-80b9-4d23-b6dd-98530733c54e)
+
+![Empathy map medewerkers Woedend! Creative Agency](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LZiUzAqtKhS6-z8arFq%2F-L_CQ_jc76IrTqCbzbst%2F-L_CVB4vdRcMtfds3pxC%2Fempathymap2_v1.png?alt=media&token=15a414bf-978b-4da2-92c7-7064af67d04b)
+
+\*Bron: Interview medewerkers
+
+**Partners van Woedend! \(freelancers en derde partijen\)**
+
+Medewerkers van Woedend! hebben al aangegeven dat ze hun partners \(beperkt\) toegang willen bieden tot een dergelijk platform, maar of zij dat zelf ook willen, is nog niet bekend. Een reden dat zij dat niet zouden willen, is dat zij hun kennis en handige trucjes en tools willen beschermen, zodat hun werk\(wijze\) uniek blijft en anderen er niet zomaarvan kunnen profiteren\*3.
+
+Mogelijke problemen die freelancers hebben op dit moment, is dat ze niet of minder op de hoogte zijn van ontwikkelingen in de branche en netwerken lastig is, omdat zij er niet altijd middenin zitten en vaak thuis werken.
+
+**Waarom is het zo belangrijk dat we kennis en informatie met elkaar delen?\*1**
+
+De belangrijkste reden dat we onze kennis en expertise moeten delen, is dat we dubbel werk voorkomen, fouten opnieuw maken en het wiel opnieuw uitvinden en hiermee veel kostbare tijd verliezen.\*2 Andere redenen zijn:
+
+- Weten wat iedereen in de organisatie doet - Problemen kunnen sneller worden opgelost en processen worden verbeterd - Een consistent kennislevel in plaats van verdeeld over iedereen - Mensen weten vaak niet wat zij niet weten - Mensen in verschillende stadia van hun carrière kunnen van elkaar leren - Netwerken vergroten - Op sociaal gebied worden we ook beter - Je laat zien dat je geïnteresseerd bent
+
+## Benchmark <a id="benchmark"></a>
+
+### Dropbox <a id="dropbox"></a>
+
+Dropbox is een clouddienst waar je bestanden online kan opslaan en synchroniseren met verschillende computers,smartphones en tablets. Je kan bestanden ook offlineopslaan. Je hebt alleen internetverbinding nodig om bestanden op de cloud te zetten of te downloaden. Als gratis gebruiker heb je een maximale opslagcapaciteit van 16 GB en betaalde gebruikers 1 TB.
+
+**Structuur** Het is mogelijk om mappen en submappen aan te maken.
+
+**Toegang** Bestanden zijn te delen met anderen door middel van een uitnodiging of het versturen van een link. Publieke mappen zijn voor iedereen toegankelijk.
+
+**Beveiliging** Om in te loggen, heb je een e-mail en wachtwoord nodig. Om toegang te krijgen tot bestanden van anderen, heb je een link of uitnodiging van de eigenaar nodig.
+
+### Google Drive <a id="google-drive"></a>
+
+Dit is een cloudopslag van Google waar je foto’s, presentaties, opnamen, video’s, tekstbestanden, etc. kan opslaan, tot wel 15GB. Je hebt overal toegang tot je bestanden. Er zijn een aantal externe applicaties die werken met Google Drive.
+
+**Structuur** Je kan mappen en submappen maken en elk een kleur geven.
+
+**Toegang** Om anderen toegang te geven tot jouw bestanden, stuur je hen een uitnodiging of geheime link. Je kan deelnemers drie mogelijke toegangsniveaus geven: ‘mogen bewerken’, ‘mogen reageren’ en ‘mogen weergeven’.
+
+**Beveiliging** Om in te loggen heb je je G-mailadres en een wachtwoord nodig. Je kan een tweede authorisatiecode inschakelen. Dan ontvang je een sms. Openbare bestanden zijn via Google search te vinden. Het is ook maar de vraag wat Google met jouw informatie doet.
+
+### Notion <a id="notion"></a>
+
+Een tool waar je kan schrijven, plannen en organiseren. Alles in één tool die vele andere tools vervangt. Notion synchroniseert met al je apparaten en werkt in eenbrowser. Het werkt ook offline. Het is gratis \(maximaal1000 block storage\) of betaald tot 16 dollar per maand \(onbeperkt block storage\).
+
+**Structuur** Je kan notities schrijven, kennis en informatie in mappen en submappen opslaan, taken verdelen en in een kalender zetten en databases bijhouden.
+
+**Toegang** Gratis gebruikers kunnen toegang verlenen aan anderen door een link te sturen. Betaalde gebruikers hebben meer geavanceerde instellingen en kunnen voorkomen dat anderen bestanden extern delen.
+
+**Beveiliging** Je kan inloggen met een e-mailadres en wachtwoord of met je Google-account.
+
+### ~~OneDrive~~ <a id="onedrive"></a>
+
+~~OneDrive is een clouddienst van Microsoft om bestanden online in op te slaan. Gratis gebruikers krijgen een opslag van 5 GB, betaalde gebruikers 1 TB. Deze tool biedt ook een desktopapplicatie.~~
+
+~~**Structuur** Je kan mappen en submappen aanmaken.~~
+
+~~**Toegang** De gebruiker kan een link sturen om bestanden te delen. Betaalde gebruikers kunnen een wachtwoord en een verloopdatum instellen.~~
+
+~~**Beveiliging** Er is een e-mailadres en wachtwoord nodig om in te loggen. Wanneer je via de desktopapplicatie eenmalig hebt ingelogd, is inloggen niet meer nodig.~~
+
+> ### Slack
+>
+> Slack is een samenwerkingsplatform, waar je constant in contact staat met je team. Je kan conversaties aanmaken waar je je team en klanten toegang tot kan geven, spraak- en videochatten, je scherm live delen en verschillende soorten bestanden delen.
+>
+> **Structuur** Je kan ‘channels’ aanmaken waar je de toegang kan aanpassen. Binnen die kanalen heb je gecategoriseerde topics. De topics lijken op chats.
+>
+> **Toegang** Wie toegang heeft tot een kanaal, kan je instellen. Per topic kan je aangeven wie het kan zien, of er gereageerd op kan worden en of het bewerkt kan worden.
+>
+> **Beveiliging** Slack heeft veel beveiligingscertificaten. Je kan inloggen met tweestapsverificatie.
+
+### STACK <a id="stack"></a>
+
+Stack is een online harde schijf waar je veilig en makkelijk bestanden opslaat en deelt. Je hebt overal toegang tot je bestanden en je kan back-ups er in opslaan. Het is nodig om een betaald abonnement af te sluiten. Je krijgt dan een maximale opslagcapaciteit van 250 GB tot 10.000 GB.
+
+**Structuur** Je kan mappen en submappen aanmaken.
+
+**Toegang** Je kunt een bestand op map delen met anderen door middel van gebruikers toe te voegen of een link die je met een wachtwoord kan beveiligen. Hier kan je indien gewenst een vervaldatum instellen. Je kan op deze manier ook iemand de mogelijkheid geven om zelf te uploaden. Je kan een bestand op ‘alleen lezen’ zetten.
+
+**Beveiliging** Je kan een extra beveiligingslaag inschakelen met een tweede authorisatiecode. De bestanden worden versleuteld opgeslagen op Nederlandse servers, om zeker te weten dat niemand anders aan je bestanden komt.
+
+### Conclusie
+
+Qua structuur lijken alle tools op elkaar. Je kan bestanden in mappen gooien of ter plekke lijstjes en taken aanmaken. Waar het hier aan ontbreekt is dat je veel zelf moet invullen en de juiste map kiezen, wat tijd kost en veel gebruikers demotiveert, waardoor informatie niet goed wordt opgeschreven en in de verkeerde mappen belandt. ~~Ik wil tijdbesparende features aan mijn product toevoegen, zodat gebruikers sneller en makkelijker informatie kunnen delen.~~
+
+De tools zijn iets te formeel in hun tone of voice. Het zou gebruikers een fijner gevoel geven wanneer deze informeler en losser is, met veel humor. Dit motiveert hen om mijn tool te gebruiken in plaats van andere. Om gebruikers extra te motiveren \(als dit nodig is\), kunnen zij nog worden beloond als zij informatie delen. Dat heeft een bestaande tool nog niet gedaan.
+
+Op het gebied van beveiliging lopen ze niet echt vooruit. Wachtwoorden zijn te makkelijk te hacken en detweestapsverificatie is niet anders. ~~Door middel vanbiometrics zou mijn product een voorsprong hebben.~~
+
+> Goede punten zijn onder andere de overzichtelijke structuur van de apps, grote opslagcapaciteiten en dat je vaak kan instellen wie toegang heeft tot bepaalde informatie en of er op gereageerd kan worden.
+
+## **Focus & productvisie** <a id="focus-and-productvisie"></a>
+
+In de korte tijd die er is voor het maken van een prototype, zal ik niet alles kunnen doen wat ik wil, maar ik zal er zoveel mogelijk uithalen. Het onderwerp zelf is nietheel spannend, maar ik ga ervoor zorgen dat het wėl spannend wordt. Voor mij is het project geslaagd, als ik door middel van goede validatie en verificatie tot een uniek en prikkelend concept kom, waar alle stakeholders enthousiast over zijn en gemotiveerd door worden. Uiteraard moet het voor mij als visual interface designer ook visueel aantrekkelijk worden.
+
+Veel bedrijven gebruiken platformen zoals Stack, Dropbox, OneDrive en Google Drive, maar daar plaatsen gebruikers bestanden snel in de verkeerde mappen, wat zorgt voor een ongestructureerd zooitje en dit werkt demotiverend voor de gebruiker.
+
+Mijn doel voor het prototype is dat het de gebruiker motiveert. Hij moet mijn product liever willen gebruiken dan andere bestaande tools. Dit kan onder andere door middel van goed gedrag belonen, de gebruiker helpen goede keuzes te maken, de gebruiker te verrassen en met de gebruiker te connecten. Waar de meeste bestaande tools vooral functioneel zijn en niet per se motiverend \(door gebrek aan motivatie werkt het functioneel meestal ook niet lekker\), wil ik met mijn product inspelen op de emotie van de gebruiker, hun behoeften en ervoor zorgen dat ze mijn product vertrouwen en blijven terugkomen. Om in te spelen op hun emotie, krijgen ze een positief gevoel bij het product, krijgen ze het gevoel dat er naar hun geluisterd wordt en vinden ze het fijn om het product te gebruiken.
+
+Dit kan door het juiste gebruik van foto’s, kleuren en tone of voice. Wat ik belangrijk vind is goede humor. De gebruiker moet direct een glimlach op zijn gezicht hebben bij het openen van de applicatie en kan beloond worden voor het delen van informatie, voor extra motivatie, indien dit nodig is. Of er daadwerkelijk een behoefte is aan een meer informele tool, moet nog worden onderzocht.
+
+Op het functionele gebied kan mijn tool rekening houden met de beperkte tijd die de gebruikers soms hebben \(time saving design\). Denk aan features die alleen zichtbaar zijn als je ze nodig hebt, pop-ups die in beeld verschijnen om over te springen naar een specifieke feature dat nog meer tijd bespaart en het creëren van een lineair verloop met een begin en een eind, waar één actie per stap wordt uitgevoerd.
+
+Privacy en veiligheid is zeker niet iets wat vergeten mag worden. Omdat er veel privacygevoelige informatie wordt gedeeld, is de tool niet zomaar toegankelijk voor iedereen en wordt het goed beveiligd. Dit kan met biometrics, een vorm van identificatie en toegangscontrole, gerelateerd aan menselijke kenmerken, zoals een irisscan of vingerafdruk. Dit is bijna onmogelijk te hacken en zal informatie ook in de toekomst beschermen.
+
+> Ik zal een product opleveren, met de focus op visual en motion design. Ik zal een aantrekkelijk interactief prototype opleveren met vloeiende animaties die inspelen op de gebruikerservaring.
+
+> Deliverables die ik onder andere ga opleveren zijn inspiration walls \(inspireren me in het ontwerpproces\), prototypes \(om te testen en de definitieve versie\), testresultaten en conclusies, moodboards \(helpen me de sfeer van mijn product te bepalen\), design specification \(licht de gehele visuele stijl en gebruik van elementen toe\) en een Programma van Eisen \(lijst met alle eisen van de stakeholders\).
+
+~~Ik zal het product gaan ontwerpen en een klikbaar prototype ervan maken en opleveren aan~~ Het prototype wordt opgeleverd aan Woedend! Creative Agency. Het programmeren en ontwikkelen hiervan zal aan een andere partij worden overgelaten.
+
+## Onderzoeksvragen <a id="onderzoeksvragen"></a>
+
+**Wat zijn de behoeften van de gebruiker?** - Wie zijn de stakeholders? - Hoe ervaren de medewerkers van Woedend! Creative Agency het probleem op dit moment? - Wat is het doel en wat zijn de gevolgen van kennisdelen tussen medewerkers en freelancers/derden? - Wat zijn de oorzaken van medewerkers die hun kennis niet \(willen\) delen? - Wat willen medewerkers van Woedend! Creative Agency delen? - Op welk moment willen medewerkers van Woedend! Creative Agency kennis delen? - Waar bevinden medewerkers van Woedend! Creative Agency zich op het moment dat zij kennis willen delen? - Met wie willen medewerkers van Woedend! Creative Agency kennis delen binnen het bedrijf? - Hebben medewerkers van Woedend! Creative Agency behoefte aan het delen en verkrijgen van kennis en informatie met freelancers en derden?
+
+**Zijn freelancers/derden bereid om informatie en kennis te delen en te verkrijgen?** - Wat willen freelancers/derden delen? - Op welk moment willen freelancers/derden kennis delen met het bedrijf? - Waar bevinden freelancers/derden zich op het moment dat zij kennis willen delen? - Met wie willen freelancers/derden kennis delen?
+
+**Wat zijn de bestaande tools/apps/platforms voor kennisdelen en wat zijn hun pains & gains?**
+
+**Hoe motiveer je werknemers om het platform blijven te gebruiken?** - Welke trends op technisch en visueel gebied zijn er? - Welke design patterns zijn geschikt voor het prototype?
+
+**Hoe kunnen verschillende ideeën naar één concreet concept worden ontwikkeld?**
+
+**Wat zijn de belangrijkste kenmerken van het prototype?**
+
+**Wat vinden de stakeholders van het eerste prototype, als de focus op de functionaliteit en navigatie ligt?**
+
+**Wat vinden de stakeholders van het tweede prototype, als de focus op de structuur ligt?**
+
+**Wat vinden de stakeholders van het derde prototype, als de focus op de details en visuals ligt?**
+
+**Voldoet het prototype aan de eisen van de stakeholders?**
+
+## **Mijlpalen** <a id="mijlpalen"></a>
+
+> **Mijlpaal 1 - week 7**
+
+Wat: Design brief \(stakeholder map, empathy map\) en planning - Is het probleem goed afgebakend? Zijn de behoeften van de stakeholders duidelijk? Hoe is mijn schrijfstijl? Aan wie: Klasgenoten en opdrachtgever
+
+> **Mijlpaal 2 - week 9**
+
+Wat: ~~Comparison chart~~, inspiration wall, concept - Wat zijn de meningen over mijn eerste ideeën? Sluit het aan bij de doelgroep? Zal het de gebruiker genoeg motiveren? Aan wie: Klasgenoten, opdrachtgever, collega’s en gebruiker
+
+> **Mijlpaal 3 - week 10**
+
+> Wat: Prototype 1 \(paper low-fi\) - Wat zijn de meningen over de functionaliteit en navigatie van het prototype? Aan wie: Gebruiker
+
+> **Mijlpaal 4 - week 12**
+
+Wat: Prototype 2 - Wat zijn de meningen over de structuur van het prototype? Aan wie: Klasgenoten, collega’s en gebruiker
+
+> **Mijlpaal 5 - week 15**
+
+> Wat: Prototype 3 \(digitaal hi-fi\) - Wat zijn de meningen over de details en visuele uitstraling van het prototype? Aan wie: Klasgenoten, collega’s en gebruiker
+
+> **Mijlpaal 6 - week 18**
+
+Wat: Test report 1+2+3, moodboard, design specification,comparison chart, programma van eisen - Voldoet het product aan de eisen van de stakeholders? Aan wie: Klasgenoten en opdrachtgever
+
+> **Mijlpaal 7 - week 19/20**
+
+> Wat: Definitief prototype \(digitaal hi-fi, inclusief animaties\), prototypevideo, promotievideoAan wie: Klasgenoten, opdrachtgever, collega’s, gebruiker
+
+## Bronnen <a id="bronnen"></a>
+
+> **Bron 1 - Pagina 5**  
+> TNO. \(2019, 14 februari\). Aantal flexwerkers in 15 jaar met drie kwart gegroeid \| TNO. Geraadpleegd op 19 februari 2019, van https://www.tno.nl/nl/over-tno/nieuws/2019/2/aantal-flexwerkers-in-15-jaar-met-drie-kwart-gegroeid/
+
+> **Bron 2 - Pagina’s 7 en 8**  
+> Dixon, G., & Overton, L. \(2017\). Capturing and Sharing Company Know-How \(February 2017\). Geraadpleegd van https://www.towardsmaturity.org/elements/uploads/In-Focus\_2017\_-\_Knowledge\_Transfer.pdf
+
+> **Bron 3  - Pagina 8**  
+> Adformatie. \(2010, 19 oktober\). Kennis delen: onvermijdelijk en aan te raden! Geraadpleegd op 24 februari 2019, van https://www.adformatie.nl/targeting-segmentatie/kennis-delen-onvermijdelijk-en-aan-te-raden
+
+## Planning <a id="planning"></a>
+
+[  
+](/workspace/~/drafts/-LZiWzSVIcb8lAEIVl_-/primary/design-brief/untitled)
+
+![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LZiUzAqtKhS6-z8arFq%2F-L_IADpsgXGiTErX6aeM%2F-L_IBS4HcFx3Ud9C29PP%2Fplanning_v4.png?alt=media&token=517b2eed-435c-4d84-a536-c40c660c1986)
+
